@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "NavigationTest",
-    "slug": "NavigationTest",
+    "name": "Navigation_AcrossScreens",
+    "slug": "NavigationAcrossScreens",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
