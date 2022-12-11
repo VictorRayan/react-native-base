@@ -4,7 +4,7 @@ import { Button, Card } from 'react-native-paper';
 import { DefaultTheme } from 'react-native-paper';
 
 
-  function HomeScreen({navigation}) {
+function HomeScreen({navigation}) {
   
   return (
     <ScrollView style={styles.scrollView}>

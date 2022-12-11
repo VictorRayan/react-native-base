@@ -8,3 +8,14 @@ export default function App() {
     </View>
   );
 }
+
+
+/*
+
+This class just import MenuExample class and display it by return method.
+
+This is intended to show a simple options menu when a button is clicked.
+
+More info into Menu.js class
+
+*/

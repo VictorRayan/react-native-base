@@ -19,3 +19,15 @@ export default function App() {
     </PaperProvider>
   );
 }
+
+
+/*
+  This class instance the "Stack" object that must be put in NavigationContainer component for screen disply handling.
+  In Stack.Navigator component, is defiend the screens object as well as its name and class objet gotten from screens folder.
+
+  Each screen class will for default receive a object object called 'navigation' that should be used to define a button function.
+  This which in its onPress method wil call navigation.navigate(another screen name defined in Stack.Screen from main class) to navigate to that screen.
+
+  **the first screen defined in Stack.Navigator wil be which is displayed first.
+
+*/
