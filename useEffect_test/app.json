@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "audioplay-expo-av",
-    "slug": "audioplay-expo-av",
+    "name": "use-effect",
+    "slug": "use-effect",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

@@ -1,7 +1,6 @@
 import * as React from 'react';
 import { Text, View, StyleSheet, Button } from 'react-native';
 import { Audio } from 'expo-av';
-import { getNativeSourceAndFullInitialStatusForLoadAsync } from 'expo-av/build/AV';
 
 export default function App() {
   const [sound, setSound] = React.useState();
